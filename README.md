@@ -1,6 +1,13 @@
 # Welcome to TeamPlayers 👋
 
-This project aims to simplify the organization of the traditional weekend soccer match with friends. Developed for educational purposes, it uses React Native for the front-end and employs Async Storage for local data storage.
+This project aims to simplify the organization of the traditional weekend soccer match with friends. Developed for educational purposes, it uses React Native with TypeScript on the front-end, styled-components for styling, and Async Storage for local data storage.
+
+This app was built using:
+
+- ⚛️ React Native
+- 🟦 TypeScript
+- 🎨 styled-components
+- 💾 Async Storage
 
 ## Get started
 
