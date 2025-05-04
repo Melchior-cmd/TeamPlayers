@@ -1,7 +1,7 @@
-<<<<<<< HEAD
 # TeamPlayers
-Este projeto tem como objetivo facilitar a organização da tradicional pelada com os amigos no final de semana. Desenvolvido com fins educativos, utiliza React Native no front-end e emprega o Async Storage para o armazenamento local das informações.
-=======
+
+This project aims to simplify the organization of the traditional weekend soccer match with friends. Developed for educational purposes, it uses React Native for the front-end and employs Async Storage for local data storage.
+
 # Welcome to your Expo app 👋
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
@@ -52,4 +52,3 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
->>>>>>> 1919b43aec2d98cb80f441356b21ee35b701a928
