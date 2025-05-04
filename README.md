@@ -1,12 +1,10 @@
-# TeamPlayers
+# Welcome to TeamPlayers 👋
 
 This project aims to simplify the organization of the traditional weekend soccer match with friends. Developed for educational purposes, it uses React Native for the front-end and employs Async Storage for local data storage.
 
-# Welcome to your Expo app 👋
+## Get started
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
-
-## Get started
 
 1. Install dependencies
 
